@@ -7,9 +7,8 @@ def pretty_print(a):
     """Print a readable citation of an article"""
     print(f"Vol. {a['volume']} Issue {a['issue']} ({a['publication_date']}), pp. {a['start_page']}-{a['end_page']} - DOI {a['doi']} ({a['access_type']})")
     print(a['title'])
-    for auth in a['authors']['authors']:
-        print(f"{auth['full_name']} ({auth['affiliation']}) ", end='')
-    print()
+    authors = [f"{auth['full_name']} ({auth['affiliation']})" for auth in a['authors']['authors']]
+    print(', '.join(authors))
     print()
 
 
