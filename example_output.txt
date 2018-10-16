@@ -1,0 +1,171 @@
+Vol. 20 Issue 1 (January/February 2018), pp. 9-14 - DOI 10.1109/MITP.2018.011021350 (LOCKED)
+Computer Science Education in 2018
+Jeffrey Voas (NIST) Rick Kuhn (NIST) Celia Paulsen (NIST) Kim Schaffer (NIST)
+
+Vol. 20 Issue 1 (January/February 2018), pp. 15-18 - DOI 10.1109/MITP.2018.011311147 (LOCKED)
+Introducing the Internet of Things Department
+Phillip A. Laplante (Penn State) Ben Amaba (IBM Corporation)
+
+Vol. 20 Issue 1 (January/February 2018), pp. 27-35 - DOI 10.1109/MITP.2018.014121554 (LOCKED)
+Effectiveness of Test-Driven Development and Continuous Integration: A Case Study
+Chintan Amrit (University of Twente) Yoni Meijberg (Topicus)
+
+Vol. 20 Issue 1 (January/February 2018), pp. 36-44 - DOI 10.1109/MITP.2018.011291354 (LOCKED)
+Automatic Annotation of Text with Pictures
+J. Kent Poots (York University) Ebrahim Bagheri (Ryerson University)
+
+Vol. 20 Issue 1 (January/February 2018), pp. 45-52 - DOI 10.1109/MITP.2018.011291352 (LOCKED)
+The Design of a Software Engineering Lifecycle Process for Big Data Projects
+Yen-Tai Lin (National Taiwan University of Science and Technology) Sun-Jen Huang (National Taiwan University of Science and Technology)
+
+Vol. 20 Issue 1 (January/February 2018), pp. 53-62 - DOI 10.1109/MITP.2018.011291353 (LOCKED)
+Improving Transparency and Efficiency in IT Security Management Resourcing
+Knut Haufe (PwC Cybersecurity Services) Srdan Dzombeta (PwC Cybersecurity Services) Knud Brandis (PwC Cybersecurity Services) Vladimir Stantchev (SRH University Berlin) Ricardo Colomo-Palacios (&#xD8;stfold University College)
+
+Vol. 20 Issue 1 (January/February 2018), pp. 64-68 - DOI 10.1109/MITP.2018.011301733 (LOCKED)
+Bad Security Metrics Part 1: Problems
+David Flater (NIST)
+
+Vol. 20 Issue 1 (January/February 2018), pp. 69-76 - DOI 10.1109/MITP.2018.011301803 (LOCKED)
+The Role of a Customer Data Platform
+Seth Earley (Earley Information Science)
+
+Vol. 20 Issue 1 (January/February 2018), pp. 77-79 - DOI 10.1109/MITP.2018.011301814 (LOCKED)
+Life in the C-Suite 2.0
+Stephen J. Andriole (Villanova University)
+
+Vol. 20 Issue 2 (Mar./Apr. 2018), pp. 11-14 - DOI 10.1109/MITP.2018.021921645 (LOCKED)
+Blockchain in Developing Countries
+Nir Kshetri (University of North Carolina at Greensboro) Jeffrey Voas (IEEE Fellow)
+
+Vol. 20 Issue 2 (Mar./Apr. 2018), pp. 15-18 - DOI 10.1109/MITP.2018.021921646 (LOCKED)
+Enabling Trust and Security: TIPPSS for IoT
+Florence D. Hudson (Columbia University)
+
+Vol. 20 Issue 2 (Mar./Apr. 2018), pp. 19-25 - DOI 10.1109/MITP.2018.021921647 (LOCKED)
+The 2018 Winter Olympics: A Showcase of Technological Advancement
+Nir Kshetri (University of North Carolina at Greensboro) Diana Rojas-Torres (Universidad de La Sabana)
+
+Vol. 20 Issue 2 (Mar./Apr. 2018), pp. 34-41 - DOI 10.1109/MITP.2018.021921649 (LOCKED)
+The use of big data analytics to predict the foreign exchange rate based on public media: A machine-learning experiment
+Rua-Huan Tsaih (National Chengchi University) Biing-Shen Kuo (National Chengchi University) Tzu-Hsiang Lin (National Chengchi University) Che-Chuan Hsu (National Chengchi University and Lee-Ming Institute of Technology)
+
+Vol. 20 Issue 2 (Mar./Apr. 2018), pp. 42-52 - DOI 10.1109/MITP.2018.021921650 (LOCKED)
+How to Analyze Data from Unlisted but Rich Firms: From the Perspective of Data and Analysis
+Russell Newman (University of Southampton) Victor Chang (Xi&#x2019;an Jiaotong-Liverpool University) Robert J. Walters (University of Southampton) Gary Wills (University of Southampton)
+
+Vol. 20 Issue 2 (Mar./Apr. 2018), pp. 53-61 - DOI 10.1109/MITP.2018.021921651 (LOCKED)
+The Evolving Payments Landscape: Technological Innovation in Payment Systems
+Filip Caron (KU Leuven)
+
+Vol. 20 Issue 2 (Mar./Apr. 2018), pp. 62-74 - DOI 10.1109/MITP.2018.021921652 (LOCKED)
+To Blockchain or Not to Blockchain: That Is the Question
+Valentina Gatteschi (Politecnico di Torino) Fabrizio Lamberti (Politecnico di Torino) Claudio Demartini (Politecnico di Torino) Chiara Pranteda (Reale Group) Víctor Santamaría (Reale Group)
+
+Vol. 20 Issue 2 (Mar./Apr. 2018), pp. 76-79 - DOI 10.1109/MITP.2018.021921653 (LOCKED)
+Bad Security Metrics Part 2: Solutions
+David Flater (NIST)
+
+Vol. 20 Issue 2 (Mar./Apr. 2018), pp. 80-82 - DOI 10.1109/MITP.2018.021921654 (LOCKED)
+What Executives Should Know About Technology Trends
+Stephen J. Andriole (Villanova University)
+
+Vol. 20 Issue 2 (Mar./Apr. 2018), pp. 83-87 - DOI 10.1109/MITP.2018.021921655 (LOCKED)
+Could a coding bootcamp experience prepare you for industry?
+Graham A. Wilson (Moray College UHI)
+
+Vol. 20 Issue 2 (Mar./Apr. 2018), pp. 88-90 - DOI 10.1109/MITP.2018.021921656 (LOCKED)
+Extreme Automation: A New Game-Changing Technology
+Jinan Fiaidhi (Lakehead University)
+
+Vol. 20 Issue 2 (Mar./Apr. 2018), pp. 91-95 - DOI 10.1109/MITP.2018.021921657 (LOCKED)
+Rural e-Commerce in Developing Countries
+Nir Kshetri (The University of North Carolina at Greensboro)
+
+Vol. 20 Issue 3 (May./Jun. 2018), pp. 6-10 - DOI 10.1109/MITP.2018.032501740 (OPEN_ACCESS)
+IoT Metrology
+Jeffrey Voas (NIST) Rick Kuhn (NIST) Phillip A. Laplante (Penn State University)
+
+Vol. 20 Issue 3 (May./Jun. 2018), pp. 11-14 - DOI 10.1109/MITP.2018.032501741 (LOCKED)
+A Closer Look at IoT 's Things
+Jeffrey Voas (IEEE Fellow) Bill Agresti (IEEE Life Senior Member) Phillip A. Laplante (Penn State University)
+
+Vol. 20 Issue 3 (May./Jun. 2018), pp. 15-18 - DOI 10.1109/MITP.2018.032501742 (LOCKED)
+Blockchain and the Internet of Things in the Industrial Sector
+Dennis Miller (IBM)
+
+Vol. 20 Issue 3 (May./Jun. 2018), pp. 23-30 - DOI 10.1109/MITP.2018.032501745 (LOCKED)
+Advancing Cybersecurity: The Growing Need for a Cyber-Resiliency Workforce
+Logan O. Mailloux (Air Force Institute of Technology) Michael Grimaila (Air Force Institute of Technology)
+
+Vol. 20 Issue 3 (May./Jun. 2018), pp. 31-39 - DOI 10.1109/MITP.2018.032501746 (LOCKED)
+The New Threats of Information Hiding: The Road Ahead
+Krzysztof Cabaj (Warsaw University of Technology, Poland) Luca Caviglione (National Research Council of Italy) Wojciech Mazurczyk (Warsaw University of Technology, Poland) Steffen Wendzel (Worms University of Applied Sciences, Germany) Alan Woodward (University of Surrey, UK) Sebastian Zander (Murdoch University, Australia)
+
+Vol. 20 Issue 3 (May./Jun. 2018), pp. 40-49 - DOI 10.1109/MITP.2018.032501747 (LOCKED)
+Internet of Things Forensics: The Need, Process Models, and Open Issues
+Maxim Chernyshev (Edith Cowan University) Sherali Zeadally (University of Kentucky) Zubair Baig (CSIRO) Andrew Woodward (Edith Cowan University)
+
+Vol. 20 Issue 3 (May./Jun. 2018), pp. 50-63 - DOI 10.1109/MITP.2018.032501748 (LOCKED)
+Experiments with Ocular Biometric Datasets: A Practitioner&#x2019;s Guideline
+Zahid Akhtar (University of Quebec) Gautam Kumar (National Institute of Technology, Rourkela) Sambit Bakshi (National Institute of Technology, Rourkela) Hugo Proenca (University of Beira Interior)
+
+Vol. 20 Issue 3 (May./Jun. 2018), pp. 64-72 - DOI 10.1109/MITP.2018.032501749 (LOCKED)
+The Evolving Cyberthreat to Privacy
+A. J. Burns (The University of Texas at Tyler) Eric Johnson (Vanderbilt University)
+
+Vol. 20 Issue 3 (May./Jun. 2018), pp. 73-81 - DOI 10.1109/MITP.2018.032501750 (LOCKED)
+Understanding Privacy Violations in Big Data Systems
+Jawwad A. Shamsi (National University of Computer and Emerging Sciences) Muhammad Ali Khojaye (Independent researcher)
+
+Vol. 20 Issue 3 (May./Jun. 2018), pp. 83-85 - DOI 10.1109/MITP.2018.032501752 (LOCKED)
+Governing and Piloting Emerging Technologies
+Stephen J. Andriole (Villanova University School of Business)
+
+Vol. 20 Issue 3 (May./Jun. 2018), pp. 86-89 - DOI 10.1109/MITP.2018.032501753 (LOCKED)
+Recognizing Student Research through Symposia and Competitions
+Luigi De Russis (Politecnico di Torino) Kenichi Yoshida (University of Tsukuba)
+
+Vol. 20 Issue 3 (May./Jun. 2018), pp. 90-95 - DOI 10.1109/MITP.2018.032501754 (LOCKED)
+Digital Health in the Era of Extreme Automation
+Jinan Fiaidhi (Lakehead University) Sabah Mohammed (Lakehead University)
+
+Vol. 20 Issue 4 (Jul./Aug. 2018), pp. 8-12 - DOI 10.1109/MITP.2018.043141662 (LOCKED)
+How Do You Create an Internet of Things Workforce?
+Joanna DeFranco (Penn State University) Mohamad Kassab (Penn State University) Jeffrey Voas (IEEE Fellow)
+
+Vol. 20 Issue 4 (Jul./Aug. 2018), pp. 13-17 - DOI 10.1109/MITP.2018.043141663 (LOCKED)
+Whats Your IT Risk Approach?
+Linda Wilbanks (US Department of Education)
+
+Vol. 20 Issue 4 (Jul./Aug. 2018), pp. 19-27 - DOI 10.1109/MITP.2017.265105031 (LOCKED)
+Challenges in Creating Hybrid Professionalism Knowledge
+Rua-Huan Tsaih (National Chengchi University) David C. Yen (SUNY Oneonta) Yu-Chien Chang (National Chengchi University) Che-Chuan Hsu (National Chengchi University and Lee-Ming Institute of Technology)
+
+Vol. 20 Issue 4 (Jul./Aug. 2018), pp. 28-36 - DOI 10.1109/MITP.2018.043141666 (LOCKED)
+Change Taxonomy: A Fine-Grained Classification of Software Change
+Mohamed Elkholy (Pharos University in Alexandria) Ahmed Elfatatry (Alexandria University)
+
+Vol. 20 Issue 4 (Jul./Aug. 2018), pp. 37-45 - DOI 10.1109/MITP.2017.265105759 (LOCKED)
+Social Media, Social Capital, and Knowledge Sharing in Enterprise
+Mohammad Hossein Jarrahi (University of North Carolina at Chapel Hill)
+
+Vol. 20 Issue 4 (Jul./Aug. 2018), pp. 46-56 - DOI 10.1109/MITP.2017.265105905 (LOCKED)
+Privacy Issues and Solutions for Consumer Wearables
+Alfredo J. Perez (Columbus State University) Sherali Zeadally (University of Kentucky)
+
+Vol. 20 Issue 4 (Jul./Aug. 2018), pp. 57-64 - DOI 10.1109/MITP.2017.265105441 (LOCKED)
+Data Breaches: Public Sector Perspectives
+Rhoda C. Joseph (Pennsylvania State University Harrisburg)
+
+Vol. 20 Issue 4 (Jul./Aug. 2018), pp. 66-72 - DOI 10.1109/MITP.2018.043141671 (LOCKED)
+EDI with Blockchain as an Enabler for Extreme Automation
+Jinan Fiaidhi (Lakehead University) Sabah Mohammed (Lakehead University) Sami Mohammed (University of Victoria)
+
+Vol. 20 Issue 4 (Jul./Aug. 2018), pp. 73-77 - DOI 10.1109/MITP.2018.043141672 (LOCKED)
+5G in E-Commerce Activities
+Nir Kshetri (University of North Carolina at Greensboro)
+
+Vol. 20 Issue 4 (Jul./Aug. 2018), pp. 78-80 - DOI 10.1109/MITP.2018.043141673 (LOCKED)
+A New Capitalism?
+George Strawn (US National Academies of Sciences, Engineering, and Medicine)
